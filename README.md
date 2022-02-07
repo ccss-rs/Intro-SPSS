@@ -1,5 +1,6 @@
 # Intro-SPSS
-Readme file With Replication Steps. These files are auploaded to repository. 
+Readme file With Replication Steps. 
+These files are uploaded to current Github repository. 
 Workshop Recording:
 https://vod.video.cornell.edu/media/Introduction+to+SPSSA+Crash+Course+Spring+2022/1_ui2e6zc0
 
